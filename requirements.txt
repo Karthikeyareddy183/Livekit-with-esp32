@@ -1,4 +1,4 @@
-livekit-agent=1.0
+livekit-agent==1.0
 livekit-plugins-groq==0.2.1
 livekit-plugins-silero==0.2.1
 livekit-plugins-elevenlabs==0.2.1
