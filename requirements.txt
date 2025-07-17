@@ -1,5 +1,9 @@
-livekit-agent==1.0
-livekit-plugins-groq==0.2.1
-livekit-plugins-silero==0.2.1
-livekit-plugins-elevenlabs==0.2.1
-python-dotenv==1.0.1
+livekit-agents
+livekit-plugins-groq
+livekit-plugins-elevenlabs
+livekit-plugins-noise-cancellation
+livekit-plugins-silero
+python-dotenv
+websockets
+asyncio
+collections

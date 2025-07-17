@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+websockets
+livekit-server-sdk
+opuslib
+
