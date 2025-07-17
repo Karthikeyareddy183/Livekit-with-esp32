@@ -7,3 +7,4 @@ python-dotenv
 websockets
 asyncio
 collections
+opuslib 
